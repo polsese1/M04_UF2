@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song>
+  <title>Sweater Weather</title>
+  <artists>
+    <artist id="5">The Neighbourhood</artist>
+  </artists>
+  <genres>
+    <genre id="3" />
+  </genres>
+  <duration second="240" />
+  <lyrics lang="en" format="str">'Cause it's too cold for you here...</lyrics>
+  <album id="3" />
+  <record_label id="Columbia" />
+</song>
+

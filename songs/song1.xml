@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song>
+  <title>Blinding Lights</title>
+  <artists>
+    <artist id="1">The Weeknd</artist>
+  </artists>
+  <genres>
+    <genre id="2" />
+  </genres>
+  <duration second="200" />
+  <lyrics lang="en" format="str">I've been tryna call...</lyrics>
+  <album id="1" />
+  <record_label id="Republic Records" />
+</song>
+

@@ -1,0 +1,14 @@
+<song>
+  <title>As It Was</title>
+  <artists>
+    <artist id="4">Harry Styles</artist>
+  </artists>
+  <genres>
+    <genre id="1" />
+  </genres>
+  <duration second="164" />
+  <lyrics lang="en" format="str">Holdin' me back...</lyrics>
+  <album id="3" />
+  <record_label id="Columbia" />
+</song>
+
