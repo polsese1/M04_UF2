@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="5">
+  <name>The Neighbourhood</name>
+  <nationality country="EE.UU." />
+  <birthdate date="2011-01-01" />
+  <albums>
+  		<album id="3">I Love You</album>
+  </albums>
+</artist>
+

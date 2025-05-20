@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="2">
+  <name>Ed Sheeran</name>
+  <nationality country="Reino Unido" />
+  <birthdate date="1991-02-17" />
+  <albums>
+  		<album id="2">Divide</album>
+  </albums>
+</artist>
+

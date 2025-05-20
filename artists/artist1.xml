@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="1">
+  <name>The Weeknd</name>
+  <nationality country="Canadá" />
+  <birthdate date="1990-02-16" />
+  <albums>
+  		<album id="1">After Hours</album>
+  </albums>
+</artist>
+

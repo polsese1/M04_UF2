@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="4">
+  <name>Harry Styles</name>
+  <nationality country="Reino Unido" />
+  <birthdate date="1994-02-01" />
+  <albums>
+  		<album id="3">I Love You</album>
+  </albums>
+</artist>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="3">
+  <name>Lewis Capaldi</name>
+  <nationality country="Escocia" />
+  <birthdate date="1996-10-07" />
+  <albums>
+  		<album id="2">Divide</album>
+  </albums>
+</artist>
+
