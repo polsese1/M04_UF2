@@ -34,7 +34,7 @@ def load_album(file_name):
         }
         album_songs.append(album_song)
 
-    cover_filename = album_xml.cover.text
+    cover_filename = album_xml.album.cover["src"].split("/")[-1]
     cover_path = COVERS_PATH + cover_filename
 
     if os.path.exists(cover_path):
@@ -69,7 +69,7 @@ def load_artist(file_name):
     artist_xml = open_xml(file_path)
 
     artist = {
-		"id": artist_xml.artist["id"],
+                "id": artist_xml.artist["id"],
         "name": artist_xml.artist.find("name").text,
         "nationality": artist_xml.artist.find("nationality")["country"],
         "birthdate": artist_xml.artist.find("birthdate")["date"]
@@ -270,4 +270,3 @@ version = 0.5
 title = "Playlist v" + str(version)
 
 menu()
-
