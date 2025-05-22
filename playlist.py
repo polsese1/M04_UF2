@@ -142,7 +142,7 @@ def load_genres():
 def menu():
     print(title)
     print("-" * len(title))
-    print("1. Álbumes")
+    print("1. Albumes")
     print("2. Artistas")
     print("3. Canciones")
     print("4. Géneros")
@@ -166,7 +166,7 @@ def menu():
                 print("El número o carácter introducido no es correcto.")
 
 def show_menu_albums():
-    print("-----Álbumes-----")
+    print("-----Albumes-----")
     print("1. Listar todos los álbumes")
     print("2. Buscar álbum por título")
     print("0. Volver")
